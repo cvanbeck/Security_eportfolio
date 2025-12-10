@@ -1,17 +1,16 @@
 # Network and Security Eportfolio
-Eportfolio 
+Eportfolio collection of practical work and notes taken
 
 Eportfolio is seperated by week, the first link is my notes from the lecture and the second is my code from labs.
 
 ## Week 1: Introduction to Computer Security
 [Notes](lecture_notes/Introduction_to_Networks_System_Security.pdf)
 
-No lab this week
 
 ## Week 2: Network Security Basics
 [Notes](<lecture_notes/Network_Security_Basics.pdf>)
 
-[Lab]
+No lab notes taken
 
 ## Week 3: Authentication and Access Control
 [Notes](<lecture_notes/Authentication_and_Access_Control.pdf>)
@@ -22,6 +21,7 @@ No lab this week
 [Notes](<lecture_notes/2FA_Malicious_Software.pdf>)
 
 [Lab](<labs/week4>)
+This lab contains a folder of screenshots used to test hashing on
 
 ## Week 5: Web Security
 [Notes](<lecture_notes/Web_Security_and_Vulnerabilities.pdf>)
@@ -39,9 +39,8 @@ No lab this week
 [Lab](<labs/week7>)
 
 ## Week 8: IoT and Cloud Security
-[Notes]
-[Lab]
+[Notes](lecture_notes/IoT_and_Cloud.pdf)
 
-## Week 9: Guest/Gen AI Security
-[Notes]
-[Lab]
+## Week 9: Guest
+[Notes](lecture/notes/Gen_AI.pdf)
+
